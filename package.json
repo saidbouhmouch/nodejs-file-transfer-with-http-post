@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-file-transfer-with-http-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "autodetect-decoder-stream": "^1.0.3",
+    "file-extension": "^4.0.5",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbouhmouch/nodejs-file-transfer-with-http-post.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbouhmouch/nodejs-file-transfer-with-http-post.git/issues"
+  },
+  "homepage": "https://github.com/sbouhmouch/nodejs-file-transfer-with-http-post.git#readme"
+}
